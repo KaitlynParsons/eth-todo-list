@@ -12,9 +12,9 @@ End to end tutorial writing a todo list app on the ethereum blockchain.
 - Create new workspace in Ganache
 - Run truffle init 
   - ### Contract
-  - Create your contract file under contracts and include all logic
-  - Create your migration js file under migrations to deploy it to your blockchain instance
-  - Run truffle migrate
+    - Create your contract file under contracts and include all logic
+    - Create your migration js file under migrations to deploy it to your blockchain instance
+    - Run truffle migrate
 
 ## Helpful Notes
 - Checking TodoList contract in the truffle console:
