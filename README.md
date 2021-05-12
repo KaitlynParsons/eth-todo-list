@@ -26,7 +26,8 @@
   - todoList.address
   - taskCount = await todoList.taskCount()
   - taskCount.toNumber()
-- Listing out tasks in the TodoList:
+- Listing out tasks in the TodoList in the truffle console:
+  - truffle console
   - todoList = await TodoList.deployed()
   - task = await todoList.tasks(1)
   - task
