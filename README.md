@@ -1,5 +1,5 @@
 # Ethereum Blockchain Todo List
-- End to end tutorial writing a todo list app on the ethereum blockchain.
+- Todo list app on the ethereum blockchain.
 - [Link to Tutorial](https://youtu.be/coQ5dg8wM2o)
 
 ## Requirements
