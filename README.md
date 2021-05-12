@@ -9,14 +9,14 @@
 - Metamask
 
 ## Setup
-- Create new workspace in Ganache
-- Run truffle init 
+- Create new workspace in Ganache 
   - ### Contract
     - Create your contract file under contracts and include all logic
     - Create your migration js file under migrations to deploy it to your blockchain instance
     - Run truffle migrate
 
 ## Helpful Notes
+- Running truffle init generates a new truffle project.
 - Checking TodoList contract in the truffle console:
   - truffle console
   - todoList = await TodoList.deployed()
